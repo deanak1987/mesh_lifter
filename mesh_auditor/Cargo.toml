@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.100"
+marching-cubes = "0.1.2"
 tobj = "4.0.3"
