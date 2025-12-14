@@ -46,12 +46,12 @@ fn main() -> Result<()> {
     }
 
     println!("\n-----------------------------------------");
-                                                                                                                                                                                                                                            println!("📊 FINAL REPORT");
-                                                                                                                                                                                                                                                println!("   Total Objects: {}", models.len());
-                                                                                                                                                                                                                                                    println!("   Total Vertices: {}", total_vertices);
-                                                                                                                                                                                                                                                        println!("   Total Triangles: {}", total_faces);
-                                                                                                                                                                                                                                                            println!("-----------------------------------------");
+    println!("📊 FINAL REPORT");
+    println!("   Total Objects: {}", models.len());
+    println!("   Total Vertices: {}", total_vertices);
+    println!("   Total Triangles: {}", total_faces);
+    println!("-----------------------------------------");
 
-                                                                                                                                                                                                                                                                Ok(())
-                                                                                                                                                                                                                                                                }
+    Ok(())
+}
                                                                                                                                                                                                                                                                 
